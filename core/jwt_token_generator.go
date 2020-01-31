@@ -8,7 +8,7 @@ import (
 	"time"
 )
 const (
-	tokenDuration = 72
+	tokenDuration = 120
 	expireOffset  = 3600
 )
 
