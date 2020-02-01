@@ -1,4 +1,4 @@
-package core
+package v1alpha1
 
 import (
 	"crypto/rand"
@@ -9,7 +9,7 @@ import (
 )
 
 //// Create the keys
-//priv, pub := GenerateRsaKeyPair()
+//priv, pub := InitRsaKeyPair()
 //
 //// Export the keys to pem string
 //priv_pem := ExportRsaPrivateKeyAsPemStr(priv)

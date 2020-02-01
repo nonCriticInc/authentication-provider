@@ -1,4 +1,4 @@
-package core
+package v1alpha1
 
 import (
 	"crypto/rsa"
